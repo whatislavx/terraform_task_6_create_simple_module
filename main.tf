@@ -15,8 +15,8 @@ provider "azurerm" {
   features {}
 }
 
-module "resource-group-storage" {
-  source  = "whatislavx/resource-group-storage/azurerm"
+module "resource_group_storage" {
+  source  = "whatislavx/resource_group_storage/azurerm"
   version = "1.0.1"
 
   resource_group_name  = var.resource_group_name
