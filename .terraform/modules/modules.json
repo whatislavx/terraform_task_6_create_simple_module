@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"resource-group-storage","Source":"registry.terraform.io/whatislavx/resource-group-storage/azurerm","Version":"1.0.1","Dir":".terraform/modules/resource-group-storage"}]}
